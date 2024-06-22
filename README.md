@@ -1,0 +1,1 @@
+mybaits-flex框架，可以生成xml文件，实体类，controller层，service层，serviceImpl层和mapper层
